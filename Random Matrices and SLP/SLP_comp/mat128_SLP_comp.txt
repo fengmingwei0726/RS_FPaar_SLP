@@ -1,0 +1,20 @@
+mat128_1:
+  [NoComp] #XOR = 4242, [Paar] #XOR = 2082, [FPaar] #XOR = 1987, [XorRePair] #XOR = 2047
+mat128_2:
+  [NoComp] #XOR = 2592, [Paar] #XOR = 1543, [FPaar] #XOR = 1485, [XorRePair] #XOR = 1533
+mat128_3:
+  [NoComp] #XOR = 1873, [Paar] #XOR = 1247, [FPaar] #XOR = 1184, [XorRePair] #XOR = 1217
+mat128_4:
+  [NoComp] #XOR = 2295, [Paar] #XOR = 1414, [FPaar] #XOR = 1357, [XorRePair] #XOR = 1401
+mat128_5:
+  [NoComp] #XOR = 1624, [Paar] #XOR = 1111, [FPaar] #XOR = 1076, [XorRePair] #XOR = 1098
+mat128_6:
+  [NoComp] #XOR = 2840, [Paar] #XOR = 1636, [FPaar] #XOR = 1571, [XorRePair] #XOR = 1598
+mat128_7:
+  [NoComp] #XOR = 4175, [Paar] #XOR = 2098, [FPaar] #XOR = 1992, [XorRePair] #XOR = 2033
+mat128_8:
+  [NoComp] #XOR = 2184, [Paar] #XOR = 1359, [FPaar] #XOR = 1312, [XorRePair] #XOR = 1343
+mat128_9:
+  [NoComp] #XOR = 1109, [Paar] #XOR = 834, [FPaar] #XOR = 808, [XorRePair] #XOR = 825
+mat128_10:
+  [NoComp] #XOR = 4784, [Paar] #XOR = 2264, [FPaar] #XOR = 2162, [XorRePair] #XOR = 2166

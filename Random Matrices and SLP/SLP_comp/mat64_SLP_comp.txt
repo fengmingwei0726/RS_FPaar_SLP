@@ -1,0 +1,100 @@
+mat64_1:
+  [NoComp] #XOR = 1800, [Paar] #XOR = 771, [FPaar] #XOR = 728, [XorRePair] #XOR = 731
+mat64_2:
+  [NoComp] #XOR = 1737, [Paar] #XOR = 759, [FPaar] #XOR = 720, [XorRePair] #XOR = 732
+mat64_3:
+  [NoComp] #XOR = 105, [Paar] #XOR = 96, [FPaar] #XOR = 96, [XorRePair] #XOR = 97
+mat64_4:
+  [NoComp] #XOR = 678, [Paar] #XOR = 433, [FPaar] #XOR = 413, [XorRePair] #XOR = 423
+mat64_5:
+  [NoComp] #XOR = 1181, [Paar] #XOR = 630, [FPaar] #XOR = 595, [XorRePair] #XOR = 613
+mat64_6:
+  [NoComp] #XOR = 63, [Paar] #XOR = 59, [FPaar] #XOR = 59, [XorRePair] #XOR = 59
+mat64_7:
+  [NoComp] #XOR = 693, [Paar] #XOR = 450, [FPaar] #XOR = 417, [XorRePair] #XOR = 439
+mat64_8:
+  [NoComp] #XOR = 743, [Paar] #XOR = 466, [FPaar] #XOR = 449, [XorRePair] #XOR = 464
+mat64_9:
+  [NoComp] #XOR = 1018, [Paar] #XOR = 559, [FPaar] #XOR = 531, [XorRePair] #XOR = 558
+mat64_10:
+  [NoComp] #XOR = 684, [Paar] #XOR = 435, [FPaar] #XOR = 416, [XorRePair] #XOR = 422
+mat64_11:
+  [NoComp] #XOR = 319, [Paar] #XOR = 256, [FPaar] #XOR = 245, [XorRePair] #XOR = 246
+mat64_12:
+  [NoComp] #XOR = 81, [Paar] #XOR = 77, [FPaar] #XOR = 77, [XorRePair] #XOR = 78
+mat64_13:
+  [NoComp] #XOR = 802, [Paar] #XOR = 486, [FPaar] #XOR = 463, [XorRePair] #XOR = 486
+mat64_14:
+  [NoComp] #XOR = 927, [Paar] #XOR = 532, [FPaar] #XOR = 501, [XorRePair] #XOR = 516
+mat64_15:
+  [NoComp] #XOR = 1355, [Paar] #XOR = 672, [FPaar] #XOR = 637, [XorRePair] #XOR = 649
+mat64_16:
+  [NoComp] #XOR = 1315, [Paar] #XOR = 659, [FPaar] #XOR = 613, [XorRePair] #XOR = 627
+mat64_17:
+  [NoComp] #XOR = 547, [Paar] #XOR = 378, [FPaar] #XOR = 360, [XorRePair] #XOR = 371
+mat64_18:
+  [NoComp] #XOR = 799, [Paar] #XOR = 486, [FPaar] #XOR = 458, [XorRePair] #XOR = 480
+mat64_19:
+  [NoComp] #XOR = 1205, [Paar] #XOR = 623, [FPaar] #XOR = 597, [XorRePair] #XOR = 609
+mat64_20:
+  [NoComp] #XOR = 1111, [Paar] #XOR = 609, [FPaar] #XOR = 579, [XorRePair] #XOR = 594
+mat64_21:
+  [NoComp] #XOR = 555, [Paar] #XOR = 382, [FPaar] #XOR = 359, [XorRePair] #XOR = 380
+mat64_22:
+  [NoComp] #XOR = 718, [Paar] #XOR = 454, [FPaar] #XOR = 434, [XorRePair] #XOR = 446
+mat64_23:
+  [NoComp] #XOR = 739, [Paar] #XOR = 457, [FPaar] #XOR = 443, [XorRePair] #XOR = 462
+mat64_24:
+  [NoComp] #XOR = 219, [Paar] #XOR = 183, [FPaar] #XOR = 181, [XorRePair] #XOR = 185
+mat64_25:
+  [NoComp] #XOR = 786, [Paar] #XOR = 487, [FPaar] #XOR = 455, [XorRePair] #XOR = 472
+mat64_26:
+  [NoComp] #XOR = 1093, [Paar] #XOR = 597, [FPaar] #XOR = 565, [XorRePair] #XOR = 581
+mat64_27:
+  [NoComp] #XOR = 205, [Paar] #XOR = 175, [FPaar] #XOR = 172, [XorRePair] #XOR = 175
+mat64_28:
+  [NoComp] #XOR = 1257, [Paar] #XOR = 648, [FPaar] #XOR = 616, [XorRePair] #XOR = 620
+mat64_29:
+  [NoComp] #XOR = 322, [Paar] #XOR = 258, [FPaar] #XOR = 247, [XorRePair] #XOR = 258
+mat64_30:
+  [NoComp] #XOR = 934, [Paar] #XOR = 555, [FPaar] #XOR = 523, [XorRePair] #XOR = 535
+mat64_31:
+  [NoComp] #XOR = 1080, [Paar] #XOR = 590, [FPaar] #XOR = 556, [XorRePair] #XOR = 576
+mat64_32:
+  [NoComp] #XOR = 56, [Paar] #XOR = 55, [FPaar] #XOR = 55, [XorRePair] #XOR = 55
+mat64_33:
+  [NoComp] #XOR = 825, [Paar] #XOR = 497, [FPaar] #XOR = 470, [XorRePair] #XOR = 481
+mat64_34:
+  [NoComp] #XOR = 899, [Paar] #XOR = 535, [FPaar] #XOR = 506, [XorRePair] #XOR = 528
+mat64_35:
+  [NoComp] #XOR = 1108, [Paar] #XOR = 593, [FPaar] #XOR = 561, [XorRePair] #XOR = 586
+mat64_36:
+  [NoComp] #XOR = 443, [Paar] #XOR = 325, [FPaar] #XOR = 314, [XorRePair] #XOR = 325
+mat64_37:
+  [NoComp] #XOR = 1240, [Paar] #XOR = 638, [FPaar] #XOR = 601, [XorRePair] #XOR = 621
+mat64_38:
+  [NoComp] #XOR = 1256, [Paar] #XOR = 636, [FPaar] #XOR = 605, [XorRePair] #XOR = 626
+mat64_39:
+  [NoComp] #XOR = 950, [Paar] #XOR = 543, [FPaar] #XOR = 517, [XorRePair] #XOR = 530
+mat64_40:
+  [NoComp] #XOR = 1038, [Paar] #XOR = 566, [FPaar] #XOR = 541, [XorRePair] #XOR = 574
+mat64_41:
+  [NoComp] #XOR = 1312, [Paar] #XOR = 662, [FPaar] #XOR = 622, [XorRePair] #XOR = 645
+mat64_42:
+  [NoComp] #XOR = 833, [Paar] #XOR = 492, [FPaar] #XOR = 474, [XorRePair] #XOR = 485
+mat64_43:
+  [NoComp] #XOR = 136, [Paar] #XOR = 123, [FPaar] #XOR = 123, [XorRePair] #XOR = 123
+mat64_44:
+  [NoComp] #XOR = 1604, [Paar] #XOR = 730, [FPaar] #XOR = 692, [XorRePair] #XOR = 707
+mat64_45:
+  [NoComp] #XOR = 1746, [Paar] #XOR = 767, [FPaar] #XOR = 704, [XorRePair] #XOR = 719
+mat64_46:
+  [NoComp] #XOR = 515, [Paar] #XOR = 359, [FPaar] #XOR = 344, [XorRePair] #XOR = 355
+mat64_47:
+  [NoComp] #XOR = 1572, [Paar] #XOR = 730, [FPaar] #XOR = 683, [XorRePair] #XOR = 706
+mat64_48:
+  [NoComp] #XOR = 1447, [Paar] #XOR = 685, [FPaar] #XOR = 662, [XorRePair] #XOR = 672
+mat64_49:
+  [NoComp] #XOR = 845, [Paar] #XOR = 515, [FPaar] #XOR = 492, [XorRePair] #XOR = 507
+mat64_50:
+  [NoComp] #XOR = 51, [Paar] #XOR = 50, [FPaar] #XOR = 50, [XorRePair] #XOR = 50

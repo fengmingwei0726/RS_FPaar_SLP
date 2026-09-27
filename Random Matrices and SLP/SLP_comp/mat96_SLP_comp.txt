@@ -1,0 +1,50 @@
+mat96_1:
+  [NoComp] #XOR = 1695, [Paar] #XOR = 997, [FPaar] #XOR = 941, [XorRePair] #XOR = 978
+mat96_2:
+  [NoComp] #XOR = 1083, [Paar] #XOR = 726, [FPaar] #XOR = 696, [XorRePair] #XOR = 717
+mat96_3:
+  [NoComp] #XOR = 2158, [Paar] #XOR = 1158, [FPaar] #XOR = 1097, [XorRePair] #XOR = 1142
+mat96_4:
+  [NoComp] #XOR = 1580, [Paar] #XOR = 952, [FPaar] #XOR = 913, [XorRePair] #XOR = 926
+mat96_5:
+  [NoComp] #XOR = 3055, [Paar] #XOR = 1427, [FPaar] #XOR = 1359, [XorRePair] #XOR = 1369
+mat96_6:
+  [NoComp] #XOR = 3530, [Paar] #XOR = 1520, [FPaar] #XOR = 1446, [XorRePair] #XOR = 1461
+mat96_7:
+  [NoComp] #XOR = 1521, [Paar] #XOR = 927, [FPaar] #XOR = 888, [XorRePair] #XOR = 923
+mat96_8:
+  [NoComp] #XOR = 583, [Paar] #XOR = 459, [FPaar] #XOR = 444, [XorRePair] #XOR = 466
+mat96_9:
+  [NoComp] #XOR = 665, [Paar] #XOR = 500, [FPaar] #XOR = 488, [XorRePair] #XOR = 507
+mat96_10:
+  [NoComp] #XOR = 2049, [Paar] #XOR = 1123, [FPaar] #XOR = 1063, [XorRePair] #XOR = 1089
+mat96_11:
+  [NoComp] #XOR = 2449, [Paar] #XOR = 1243, [FPaar] #XOR = 1185, [XorRePair] #XOR = 1216
+mat96_12:
+  [NoComp] #XOR = 370, [Paar] #XOR = 325, [FPaar] #XOR = 321, [XorRePair] #XOR = 326
+mat96_13:
+  [NoComp] #XOR = 3381, [Paar] #XOR = 1492, [FPaar] #XOR = 1415, [XorRePair] #XOR = 1415
+mat96_14:
+  [NoComp] #XOR = 1573, [Paar] #XOR = 954, [FPaar] #XOR = 906, [XorRePair] #XOR = 941
+mat96_15:
+  [NoComp] #XOR = 1950, [Paar] #XOR = 1107, [FPaar] #XOR = 1032, [XorRePair] #XOR = 1073
+mat96_16:
+  [NoComp] #XOR = 1389, [Paar] #XOR = 876, [FPaar] #XOR = 830, [XorRePair] #XOR = 857
+mat96_17:
+  [NoComp] #XOR = 552, [Paar] #XOR = 440, [FPaar] #XOR = 432, [XorRePair] #XOR = 442
+mat96_18:
+  [NoComp] #XOR = 502, [Paar] #XOR = 403, [FPaar] #XOR = 396, [XorRePair] #XOR = 406
+mat96_19:
+  [NoComp] #XOR = 860, [Paar] #XOR = 628, [FPaar] #XOR = 602, [XorRePair] #XOR = 625
+mat96_20:
+  [NoComp] #XOR = 1133, [Paar] #XOR = 754, [FPaar] #XOR = 730, [XorRePair] #XOR = 753
+mat96_21:
+  [NoComp] #XOR = 413, [Paar] #XOR = 344, [FPaar] #XOR = 338, [XorRePair] #XOR = 349
+mat96_22:
+  [NoComp] #XOR = 1232, [Paar] #XOR = 800, [FPaar] #XOR = 769, [XorRePair] #XOR = 792
+mat96_23:
+  [NoComp] #XOR = 2734, [Paar] #XOR = 1343, [FPaar] #XOR = 1268, [XorRePair] #XOR = 1276
+mat96_24:
+  [NoComp] #XOR = 960, [Paar] #XOR = 672, [FPaar] #XOR = 644, [XorRePair] #XOR = 675
+mat96_25:
+  [NoComp] #XOR = 2086, [Paar] #XOR = 1145, [FPaar] #XOR = 1089, [XorRePair] #XOR = 1123

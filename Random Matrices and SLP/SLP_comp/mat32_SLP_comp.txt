@@ -1,0 +1,44 @@
+mat32_1:
+  [NoComp] #XOR = 49, [Paar] #XOR = 47, [FPaar] #XOR = 46, [XorRePair] #XOR = 47
+mat32_2:
+  [NoComp] #XOR = 170, [Paar] #XOR = 120, [FPaar] #XOR = 116, [XorRePair] #XOR = 123
+mat32_3:
+  [NoComp] #XOR = 501, [Paar] #XOR = 228, [FPaar] #XOR = 209, [XorRePair] #XOR = 213
+mat32_4:
+  [NoComp] #XOR = 135, [Paar] #XOR = 105, [FPaar] #XOR = 100, [XorRePair] #XOR = 101
+mat32_5:
+  [NoComp] #XOR = 308, [Paar] #XOR = 174, [FPaar] #XOR = 168, [XorRePair] #XOR = 172
+mat32_6:
+  [NoComp] #XOR = 414, [Paar] #XOR = 212, [FPaar] #XOR = 192, [XorRePair] #XOR = 207
+mat32_7:
+  [NoComp] #XOR = 398, [Paar] #XOR = 202, [FPaar] #XOR = 190, [XorRePair] #XOR = 198
+mat32_8:
+  [NoComp] #XOR = 39, [Paar] #XOR = 37, [FPaar] #XOR = 37, [XorRePair] #XOR = 36
+mat32_9:
+  [NoComp] #XOR = 61, [Paar] #XOR = 52, [FPaar] #XOR = 52, [XorRePair] #XOR = 52
+mat32_10:
+  [NoComp] #XOR = 289, [Paar] #XOR = 175, [FPaar] #XOR = 161, [XorRePair] #XOR = 169
+mat32_11:
+  [NoComp] #XOR = 188, [Paar] #XOR = 126, [FPaar] #XOR = 120, [XorRePair] #XOR = 128
+mat32_12:
+  [NoComp] #XOR = 444, [Paar] #XOR = 210, [FPaar] #XOR = 199, [XorRePair] #XOR = 206
+mat32_13:
+  [NoComp] #XOR = 330, [Paar] #XOR = 178, [FPaar] #XOR = 169, [XorRePair] #XOR = 173
+mat32_14:
+  [NoComp] #XOR = 176, [Paar] #XOR = 128, [FPaar] #XOR = 121, [XorRePair] #XOR = 124
+mat32_15:
+  [NoComp] #XOR = 156, [Paar] #XOR = 112, [FPaar] #XOR = 110, [XorRePair] #XOR = 113
+mat32_16:
+  [NoComp] #XOR = 368, [Paar] #XOR = 192, [FPaar] #XOR = 181, [XorRePair] #XOR = 193
+mat32_17:
+  [NoComp] #XOR = 107, [Paar] #XOR = 84, [FPaar] #XOR = 82, [XorRePair] #XOR = 84
+mat32_18:
+  [NoComp] #XOR = 353, [Paar] #XOR = 184, [FPaar] #XOR = 173, [XorRePair] #XOR = 180
+mat32_19:
+  [NoComp] #XOR = 197, [Paar] #XOR = 131, [FPaar] #XOR = 127, [XorRePair] #XOR = 133
+mat32_20:
+  [NoComp] #XOR = 17, [Paar] #XOR = 17, [FPaar] #XOR = 17, [XorRePair] #XOR = 17
+mat32_21:
+  [NoComp] #XOR = 376, [Paar] #XOR = 195, [FPaar] #XOR = 183, [XorRePair] #XOR = 189
+mat32_22:
+  [NoComp] #XOR = 17, [Paar] #XOR = 17, [FPaar] #XOR = 17, [XorRePair] #XOR = 17

@@ -1,0 +1,100 @@
+mat40x50_1:
+  [NoComp] #XOR = 497, [Paar] #XOR = 293, [FPaar] #XOR = 282, [XorRePair] #XOR = 289
+mat40x50_2:
+  [NoComp] #XOR = 670, [Paar] #XOR = 357, [FPaar] #XOR = 331, [XorRePair] #XOR = 347
+mat40x50_3:
+  [NoComp] #XOR = 395, [Paar] #XOR = 256, [FPaar] #XOR = 242, [XorRePair] #XOR = 253
+mat40x50_4:
+  [NoComp] #XOR = 602, [Paar] #XOR = 332, [FPaar] #XOR = 315, [XorRePair] #XOR = 327
+mat40x50_5:
+  [NoComp] #XOR = 704, [Paar] #XOR = 357, [FPaar] #XOR = 336, [XorRePair] #XOR = 343
+mat40x50_6:
+  [NoComp] #XOR = 21, [Paar] #XOR = 21, [FPaar] #XOR = 21, [XorRePair] #XOR = 21
+mat40x50_7:
+  [NoComp] #XOR = 72, [Paar] #XOR = 68, [FPaar] #XOR = 68, [XorRePair] #XOR = 68
+mat40x50_8:
+  [NoComp] #XOR = 244, [Paar] #XOR = 179, [FPaar] #XOR = 171, [XorRePair] #XOR = 178
+mat40x50_9:
+  [NoComp] #XOR = 297, [Paar] #XOR = 207, [FPaar] #XOR = 196, [XorRePair] #XOR = 209
+mat40x50_10:
+  [NoComp] #XOR = 457, [Paar] #XOR = 286, [FPaar] #XOR = 271, [XorRePair] #XOR = 283
+mat40x50_11:
+  [NoComp] #XOR = 347, [Paar] #XOR = 232, [FPaar] #XOR = 222, [XorRePair] #XOR = 226
+mat40x50_12:
+  [NoComp] #XOR = 614, [Paar] #XOR = 333, [FPaar] #XOR = 316, [XorRePair] #XOR = 328
+mat40x50_13:
+  [NoComp] #XOR = 789, [Paar] #XOR = 371, [FPaar] #XOR = 353, [XorRePair] #XOR = 371
+mat40x50_14:
+  [NoComp] #XOR = 609, [Paar] #XOR = 336, [FPaar] #XOR = 320, [XorRePair] #XOR = 335
+mat40x50_15:
+  [NoComp] #XOR = 87, [Paar] #XOR = 78, [FPaar] #XOR = 78, [XorRePair] #XOR = 78
+mat40x50_16:
+  [NoComp] #XOR = 227, [Paar] #XOR = 171, [FPaar] #XOR = 167, [XorRePair] #XOR = 170
+mat40x50_17:
+  [NoComp] #XOR = 365, [Paar] #XOR = 238, [FPaar] #XOR = 228, [XorRePair] #XOR = 239
+mat40x50_18:
+  [NoComp] #XOR = 380, [Paar] #XOR = 252, [FPaar] #XOR = 242, [XorRePair] #XOR = 251
+mat40x50_19:
+  [NoComp] #XOR = 552, [Paar] #XOR = 313, [FPaar] #XOR = 295, [XorRePair] #XOR = 310
+mat40x50_20:
+  [NoComp] #XOR = 754, [Paar] #XOR = 377, [FPaar] #XOR = 345, [XorRePair] #XOR = 361
+mat40x50_21:
+  [NoComp] #XOR = 719, [Paar] #XOR = 358, [FPaar] #XOR = 341, [XorRePair] #XOR = 351
+mat40x50_22:
+  [NoComp] #XOR = 908, [Paar] #XOR = 400, [FPaar] #XOR = 371, [XorRePair] #XOR = 387
+mat40x50_23:
+  [NoComp] #XOR = 15, [Paar] #XOR = 15, [FPaar] #XOR = 15, [XorRePair] #XOR = 15
+mat40x50_24:
+  [NoComp] #XOR = 600, [Paar] #XOR = 326, [FPaar] #XOR = 312, [XorRePair] #XOR = 324
+mat40x50_25:
+  [NoComp] #XOR = 870, [Paar] #XOR = 393, [FPaar] #XOR = 375, [XorRePair] #XOR = 386
+mat40x50_26:
+  [NoComp] #XOR = 534, [Paar] #XOR = 309, [FPaar] #XOR = 288, [XorRePair] #XOR = 299
+mat40x50_27:
+  [NoComp] #XOR = 844, [Paar] #XOR = 386, [FPaar] #XOR = 363, [XorRePair] #XOR = 372
+mat40x50_28:
+  [NoComp] #XOR = 375, [Paar] #XOR = 247, [FPaar] #XOR = 237, [XorRePair] #XOR = 246
+mat40x50_29:
+  [NoComp] #XOR = 684, [Paar] #XOR = 348, [FPaar] #XOR = 329, [XorRePair] #XOR = 344
+mat40x50_30:
+  [NoComp] #XOR = 220, [Paar] #XOR = 167, [FPaar] #XOR = 160, [XorRePair] #XOR = 166
+mat40x50_31:
+  [NoComp] #XOR = 552, [Paar] #XOR = 318, [FPaar] #XOR = 300, [XorRePair] #XOR = 308
+mat40x50_32:
+  [NoComp] #XOR = 923, [Paar] #XOR = 405, [FPaar] #XOR = 381, [XorRePair] #XOR = 381
+mat40x50_33:
+  [NoComp] #XOR = 161, [Paar] #XOR = 134, [FPaar] #XOR = 132, [XorRePair] #XOR = 134
+mat40x50_34:
+  [NoComp] #XOR = 643, [Paar] #XOR = 339, [FPaar] #XOR = 321, [XorRePair] #XOR = 331
+mat40x50_35:
+  [NoComp] #XOR = 807, [Paar] #XOR = 391, [FPaar] #XOR = 365, [XorRePair] #XOR = 377
+mat40x50_36:
+  [NoComp] #XOR = 639, [Paar] #XOR = 337, [FPaar] #XOR = 314, [XorRePair] #XOR = 332
+mat40x50_37:
+  [NoComp] #XOR = 484, [Paar] #XOR = 280, [FPaar] #XOR = 271, [XorRePair] #XOR = 283
+mat40x50_38:
+  [NoComp] #XOR = 156, [Paar] #XOR = 128, [FPaar] #XOR = 126, [XorRePair] #XOR = 131
+mat40x50_39:
+  [NoComp] #XOR = 698, [Paar] #XOR = 369, [FPaar] #XOR = 345, [XorRePair] #XOR = 358
+mat40x50_40:
+  [NoComp] #XOR = 52, [Paar] #XOR = 51, [FPaar] #XOR = 51, [XorRePair] #XOR = 51
+mat40x50_41:
+  [NoComp] #XOR = 655, [Paar] #XOR = 351, [FPaar] #XOR = 336, [XorRePair] #XOR = 343
+mat40x50_42:
+  [NoComp] #XOR = 921, [Paar] #XOR = 402, [FPaar] #XOR = 384, [XorRePair] #XOR = 382
+mat40x50_43:
+  [NoComp] #XOR = 602, [Paar] #XOR = 337, [FPaar] #XOR = 314, [XorRePair] #XOR = 331
+mat40x50_44:
+  [NoComp] #XOR = 338, [Paar] #XOR = 232, [FPaar] #XOR = 223, [XorRePair] #XOR = 230
+mat40x50_45:
+  [NoComp] #XOR = 865, [Paar] #XOR = 395, [FPaar] #XOR = 369, [XorRePair] #XOR = 369
+mat40x50_46:
+  [NoComp] #XOR = 316, [Paar] #XOR = 221, [FPaar] #XOR = 208, [XorRePair] #XOR = 218
+mat40x50_47:
+  [NoComp] #XOR = 786, [Paar] #XOR = 377, [FPaar] #XOR = 356, [XorRePair] #XOR = 364
+mat40x50_48:
+  [NoComp] #XOR = 92, [Paar] #XOR = 81, [FPaar] #XOR = 81, [XorRePair] #XOR = 82
+mat40x50_49:
+  [NoComp] #XOR = 269, [Paar] #XOR = 201, [FPaar] #XOR = 193, [XorRePair] #XOR = 197
+mat40x50_50:
+  [NoComp] #XOR = 435, [Paar] #XOR = 274, [FPaar] #XOR = 258, [XorRePair] #XOR = 266

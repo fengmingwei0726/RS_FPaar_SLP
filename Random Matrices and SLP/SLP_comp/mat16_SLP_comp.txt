@@ -1,0 +1,100 @@
+mat16_1:
+  [NoComp] #XOR = 104, [Paar] #XOR = 58, [FPaar] #XOR = 54, [XorRePair] #XOR = 54
+mat16_2:
+  [NoComp] #XOR = 26, [Paar] #XOR = 22, [FPaar] #XOR = 22, [XorRePair] #XOR = 22
+mat16_3:
+  [NoComp] #XOR = 102, [Paar] #XOR = 58, [FPaar] #XOR = 51, [XorRePair] #XOR = 54
+mat16_4:
+  [NoComp] #XOR = 74, [Paar] #XOR = 46, [FPaar] #XOR = 45, [XorRePair] #XOR = 46
+mat16_5:
+  [NoComp] #XOR = 54, [Paar] #XOR = 40, [FPaar] #XOR = 37, [XorRePair] #XOR = 40
+mat16_6:
+  [NoComp] #XOR = 80, [Paar] #XOR = 51, [FPaar] #XOR = 50, [XorRePair] #XOR = 51
+mat16_7:
+  [NoComp] #XOR = 92, [Paar] #XOR = 52, [FPaar] #XOR = 49, [XorRePair] #XOR = 52
+mat16_8:
+  [NoComp] #XOR = 37, [Paar] #XOR = 30, [FPaar] #XOR = 29, [XorRePair] #XOR = 29
+mat16_9:
+  [NoComp] #XOR = 38, [Paar] #XOR = 28, [FPaar] #XOR = 28, [XorRePair] #XOR = 29
+mat16_10:
+  [NoComp] #XOR = 37, [Paar] #XOR = 31, [FPaar] #XOR = 30, [XorRePair] #XOR = 32
+mat16_11:
+  [NoComp] #XOR = 82, [Paar] #XOR = 50, [FPaar] #XOR = 49, [XorRePair] #XOR = 50
+mat16_12:
+  [NoComp] #XOR = 67, [Paar] #XOR = 42, [FPaar] #XOR = 41, [XorRePair] #XOR = 42
+mat16_13:
+  [NoComp] #XOR = 96, [Paar] #XOR = 53, [FPaar] #XOR = 48, [XorRePair] #XOR = 53
+mat16_14:
+  [NoComp] #XOR = 18, [Paar] #XOR = 15, [FPaar] #XOR = 15, [XorRePair] #XOR = 15
+mat16_15:
+  [NoComp] #XOR = 36, [Paar] #XOR = 30, [FPaar] #XOR = 30, [XorRePair] #XOR = 30
+mat16_16:
+  [NoComp] #XOR = 64, [Paar] #XOR = 44, [FPaar] #XOR = 42, [XorRePair] #XOR = 43
+mat16_17:
+  [NoComp] #XOR = 69, [Paar] #XOR = 46, [FPaar] #XOR = 42, [XorRePair] #XOR = 44
+mat16_18:
+  [NoComp] #XOR = 30, [Paar] #XOR = 24, [FPaar] #XOR = 23, [XorRePair] #XOR = N/A
+mat16_19:
+  [NoComp] #XOR = 102, [Paar] #XOR = 58, [FPaar] #XOR = 52, [XorRePair] #XOR = 53
+mat16_20:
+  [NoComp] #XOR = 91, [Paar] #XOR = 55, [FPaar] #XOR = 54, [XorRePair] #XOR = 52
+mat16_21:
+  [NoComp] #XOR = 103, [Paar] #XOR = 57, [FPaar] #XOR = 52, [XorRePair] #XOR = 56
+mat16_22:
+  [NoComp] #XOR = 92, [Paar] #XOR = 52, [FPaar] #XOR = 50, [XorRePair] #XOR = 52
+mat16_23:
+  [NoComp] #XOR = 24, [Paar] #XOR = 22, [FPaar] #XOR = 22, [XorRePair] #XOR = 22
+mat16_24:
+  [NoComp] #XOR = 20, [Paar] #XOR = 19, [FPaar] #XOR = 19, [XorRePair] #XOR = 19
+mat16_25:
+  [NoComp] #XOR = 27, [Paar] #XOR = 24, [FPaar] #XOR = 24, [XorRePair] #XOR = 24
+mat16_26:
+  [NoComp] #XOR = 76, [Paar] #XOR = 48, [FPaar] #XOR = 45, [XorRePair] #XOR = 48
+mat16_27:
+  [NoComp] #XOR = 63, [Paar] #XOR = 42, [FPaar] #XOR = 42, [XorRePair] #XOR = 41
+mat16_28:
+  [NoComp] #XOR = 91, [Paar] #XOR = 49, [FPaar] #XOR = 47, [XorRePair] #XOR = 47
+mat16_29:
+  [NoComp] #XOR = 98, [Paar] #XOR = 55, [FPaar] #XOR = 52, [XorRePair] #XOR = 55
+mat16_30:
+  [NoComp] #XOR = 70, [Paar] #XOR = 45, [FPaar] #XOR = 43, [XorRePair] #XOR = 45
+mat16_31:
+  [NoComp] #XOR = 30, [Paar] #XOR = 24, [FPaar] #XOR = 24, [XorRePair] #XOR = N/A
+mat16_32:
+  [NoComp] #XOR = 55, [Paar] #XOR = 41, [FPaar] #XOR = 41, [XorRePair] #XOR = 42
+mat16_33:
+  [NoComp] #XOR = 17, [Paar] #XOR = 14, [FPaar] #XOR = 14, [XorRePair] #XOR = 14
+mat16_34:
+  [NoComp] #XOR = 47, [Paar] #XOR = 33, [FPaar] #XOR = 32, [XorRePair] #XOR = 32
+mat16_35:
+  [NoComp] #XOR = 84, [Paar] #XOR = 48, [FPaar] #XOR = 45, [XorRePair] #XOR = 49
+mat16_36:
+  [NoComp] #XOR = 111, [Paar] #XOR = 57, [FPaar] #XOR = 56, [XorRePair] #XOR = 57
+mat16_37:
+  [NoComp] #XOR = 47, [Paar] #XOR = 37, [FPaar] #XOR = 35, [XorRePair] #XOR = 35
+mat16_38:
+  [NoComp] #XOR = 37, [Paar] #XOR = 30, [FPaar] #XOR = 29, [XorRePair] #XOR = 29
+mat16_39:
+  [NoComp] #XOR = 101, [Paar] #XOR = 62, [FPaar] #XOR = 55, [XorRePair] #XOR = 53
+mat16_40:
+  [NoComp] #XOR = 58, [Paar] #XOR = 45, [FPaar] #XOR = 41, [XorRePair] #XOR = 41
+mat16_41:
+  [NoComp] #XOR = 57, [Paar] #XOR = 40, [FPaar] #XOR = 37, [XorRePair] #XOR = 41
+mat16_42:
+  [NoComp] #XOR = 59, [Paar] #XOR = 41, [FPaar] #XOR = 40, [XorRePair] #XOR = 42
+mat16_43:
+  [NoComp] #XOR = 37, [Paar] #XOR = 31, [FPaar] #XOR = 31, [XorRePair] #XOR = 30
+mat16_44:
+  [NoComp] #XOR = 66, [Paar] #XOR = 45, [FPaar] #XOR = 43, [XorRePair] #XOR = 43
+mat16_45:
+  [NoComp] #XOR = 57, [Paar] #XOR = 42, [FPaar] #XOR = 38, [XorRePair] #XOR = 43
+mat16_46:
+  [NoComp] #XOR = 47, [Paar] #XOR = 33, [FPaar] #XOR = 30, [XorRePair] #XOR = 33
+mat16_47:
+  [NoComp] #XOR = 55, [Paar] #XOR = 39, [FPaar] #XOR = 37, [XorRePair] #XOR = 38
+mat16_48:
+  [NoComp] #XOR = 20, [Paar] #XOR = 20, [FPaar] #XOR = 20, [XorRePair] #XOR = 20
+mat16_49:
+  [NoComp] #XOR = 52, [Paar] #XOR = 39, [FPaar] #XOR = 37, [XorRePair] #XOR = 37
+mat16_50:
+  [NoComp] #XOR = 46, [Paar] #XOR = 34, [FPaar] #XOR = 33, [XorRePair] #XOR = 36
