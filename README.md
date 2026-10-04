@@ -6,9 +6,9 @@ This repository contains the experimental data and source code for the paper:
 
 ## Repository Structure
 
-> **HDFS_RS(10,4)/ # 1000 optimized implementations for RS(10,4) decoding matrices from HDFS**
+> **HDFS_RS(10,4): 1000 optimized implementations for RS(10,4) decoding matrices from HDFS**
 >
-> **RS(10,4)_dec_matrices.txt # All 1001 RS(10,4) decoding matrices**
+> **RS(10,4)_dec_matrices.txt: All 1001 RS(10,4) decoding matrices**
 > 
 > **RS(10,4)_compare_SLP.txt # XOR count comparison(Paar, RePair, XorRePair, and FPaar) on all 1002 matrices**
 >
