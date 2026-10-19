@@ -20,4 +20,3 @@ This repository contains the experimental data and source code for the paper:
 >
 > **XorRePair.cpp: Return the optimized results for binary matrices by Paar's algorithm and XorRePair**
 >
-> **FPaar.cpp: Return the optimized results for binary matrices by FPaar**
